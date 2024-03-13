@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: d1c3109bdb54ad54c8a2b2838528e640
+    path: Assets/Scenes/Torp York/LookDev/LookDev.unity
+    guid: a148a42b5b3d464499b0d98735542348
   m_configObjects: {}
